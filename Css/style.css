@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+
+header{
+    background-color: slateblue;
+    color:white;
+    font-family: arial;
+   
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+   
+}
+
+section{
+    font-family: arial;
+    font-size: 16px;
+    text-align: justify;
+    box-shadow: 1px 1px 5px slateblue;
+    width: 90%;
+    margin: 0 auto;
+    padding: 1%;
+}
+
+footer{
+    background-color: slateblue;
+    color:white;
+    font-family: arial;
+    text-align: center;
+    padding: 2%;
+}
+
+
+h3{
+    text-shadow: 2px 2px 2px black;
+    font-size: 30px;
+}
+
+.fonte{
+    font-size: 20px;
+    color: red;
+    background-color: aqua;
+}
+
+p{
+    font-size: 16px;
+    text-align: justify;
+    font-family: arial;
+
+}
+.rodape{
+    text-align: center;
+    font-size: 16px;
+    font-family: arial;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 1px 1px 2px black;
+}
+a{
+     color:white;
+}
+
